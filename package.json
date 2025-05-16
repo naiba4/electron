@@ -6,7 +6,7 @@
   "devDependencies": {
     "@azure/storage-blob": "^12.9.0",
     "@dsanders11/vscode-markdown-languageservice": "^0.3.0-alpha.4",
-    "@electron/asar": "^3.2.1",
+    "@electron/asar": "^4.0.0",
     "@electron/docs-parser": "^1.1.0",
     "@electron/fiddle-core": "^1.0.4",
     "@electron/github-app-auth": "^1.5.0",
@@ -55,7 +55,7 @@
     "husky": "^8.0.1",
     "klaw": "^3.0.0",
     "lint": "^1.1.2",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^16.0.0",
     "markdownlint-cli": "^0.33.0",
     "mdast-util-from-markdown": "^1.2.0",
     "minimist": "^1.2.6",
